@@ -12,7 +12,7 @@ The functional code in this fork has **NOT** been altered in any way, publishing
 
 See how to use hyperopt-sklearn through [examples](https://hyperopt.github.io/hyperopt-sklearn/#examples).
 More examples can be found in the Example Usage section of the SciPy paper:
-Komer B., Bergstra J., and Eliasmith C. "Hyperopt-Sklearn: automatic hyperparameter configuration for Scikit-learn" Proc. SciPy 2014. http://conference.scipy.org/proceedings/scipy2014/pdfs/komer.pdf
+Komer B., Bergstra J., and Eliasmith C. "Hyperopt-Sklearn: automatic hyperparameter configuration for Scikit-learn" Proc. SciPy 2014. https://proceedings.scipy.org/articles/Majora-14bd3278-006
 
 ## Installation
 
